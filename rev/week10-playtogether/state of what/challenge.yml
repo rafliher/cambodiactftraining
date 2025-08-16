@@ -1,0 +1,19 @@
+name: state of what
+author: rafliher
+description: |
+  what did buzz lightyear used to say? 
+
+tags:
+  - C
+
+category: Rev
+type: standard
+value: 100  # Static score, can be adjusted if needed
+flags:
+  - CNCC{finitestateissomethinguknow...}
+
+files:
+  - dist/chall.exe
+  - dist/flag.txt
+
+state: visible

@@ -1,0 +1,19 @@
+name: just simple encryption
+author: rafliher
+description: |
+  just solve it
+
+tags:
+  - CPP
+  - Stripped
+
+category: Rev
+type: standard
+value: 100  # Static score, can be adjusted if needed
+flags:
+  - CNCC{justaverysimplesymetricencryptionwithoutsboxorpbox}
+
+files:
+  - dist/chall.exe
+
+state: visible

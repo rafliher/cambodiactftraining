@@ -1,0 +1,21 @@
+name: oops u missed it
+author: rafliher
+description: |
+  rev, con, sol
+
+tags:
+  - C
+  - Remote
+
+connection_info: nc hostname 6003
+
+category: Rev
+type: standard
+value: 100  # Static score, can be adjusted if needed
+flags:
+  - CNCC{is_this_really_a_rev_chall?yeahwhateverimnotpayedenoughforthis}
+
+files:
+  - dist/a.exe
+
+state: visible
