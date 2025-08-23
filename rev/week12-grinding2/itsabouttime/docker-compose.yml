@@ -1,0 +1,6 @@
+services:
+  itsabouttime:
+    build: .
+    ports:
+      - "6004:22"
+    container_name: r-04itsabouttime

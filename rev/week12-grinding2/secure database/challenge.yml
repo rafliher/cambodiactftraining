@@ -1,0 +1,19 @@
+name: secure database
+author: rafliher
+description: |
+  is it?
+
+tags:
+  - android
+
+category: Rev
+type: standard
+value: 100  # Static score, can be adjusted if needed
+flags:
+  - CNCC{plesaedontaskmetorebuildthischallthistakeswaytoolong}
+
+files:
+  - dist/app.apk
+  - dist/CTF_PREFS.xml
+
+state: visible

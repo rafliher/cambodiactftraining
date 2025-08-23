@@ -1,0 +1,19 @@
+name: Its About Time
+author: rafliher
+description: |
+  A very usefull app
+
+tags:
+  - Python
+
+category: Rev
+type: standard
+value: 100  # Static score, can be adjusted if needed
+flags:
+  - CNCC{connectingtosshisonethinggettingtheflagisanother}
+
+files:
+  - dist/chall
+  - dist/hosts
+
+state: visible
